@@ -1,0 +1,34 @@
+_repo: Die-Postgeheimnisseund-Verlust-zu-vermeiden_22635
+_version: 0.1.0
+alternative_title: "Die Postgeheimnisse\r\noder die hauptsächlichsten Regeln welche\
+  \ man beim Reisen und bei Versendungen mit der Post beobachten muss um Verdruss\
+  \ und Verlust zu vermeiden"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raabe, Heinrich August
+    birthdate: 1759
+    deathdate: 1841
+    gutenberg_agent_id: '26287'
+    url: http://www.gutenberg.org/2009/agents/26287
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- German Language Books
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22635'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Travel'
+- !lcsh 'Postal service'
+title: "Die Postgeheimnisse\r\noder die hauptsächlichsten Regeln welche man beim Reisen\
+  \ und bei Versendungen mit der Post beobachten muß um Verdruß und Verlust zu vermeiden"
+url: http://www.gutenberg.org/ebooks/22635
